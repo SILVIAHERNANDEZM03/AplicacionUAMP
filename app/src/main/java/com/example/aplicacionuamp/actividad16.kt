@@ -5,17 +5,13 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 
-class actividad7 : AppCompatActivity() {
+class actividad16 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_actividad7)
-    }
-    fun actividadsalud(view: View) {
-        val intent = Intent(this, actividad5()::class.java)
-        startActivity(intent)
+        setContentView(R.layout.activity_actividad16)
     }
     fun actividadenfermeria(view: View){
-        val intent = Intent(this, actividad16()::class.java)
+        val intent = Intent(this, actividad7()::class.java)
         startActivity(intent)
     }
 }

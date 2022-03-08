@@ -22,4 +22,8 @@ class actividad6 : AppCompatActivity() {
         val intent = Intent(this, actividad13()::class.java)
         startActivity(intent)
     }
+    fun actividadsoftware(view: View){
+        val intent = Intent(this, actividad15()::class.java)
+        startActivity(intent)
+    }
 }

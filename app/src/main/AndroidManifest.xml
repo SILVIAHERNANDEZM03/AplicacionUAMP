@@ -10,12 +10,20 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AplicacionUAMP">
         <activity
-            android:name=".actividad14"
+            android:name=".actividad16"
             android:exported="false" />
         <activity
-            android:name=".mysplashscreen"
-            android:exported="false"
-            android:theme="@style/SplashTheme" />
+            android:name=".actividad15"
+            android:exported="false" />
+        <activity
+            android:name=".splashActivity"
+            android:exported="false" />
+        <activity
+            android:name=".splash"
+            android:exported="false" />
+        <activity
+            android:name=".actividad14"
+            android:exported="false" />
         <activity
             android:name=".actividad13"
             android:exported="false" />
