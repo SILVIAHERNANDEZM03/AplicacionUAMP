@@ -18,4 +18,8 @@ class actividad7 : AppCompatActivity() {
         val intent = Intent(this, actividad16()::class.java)
         startActivity(intent)
     }
+    fun actividadfisioterapia(view: View){
+        val intent = Intent(this, actividad17()::class.java)
+        startActivity(intent)
+    }
 }

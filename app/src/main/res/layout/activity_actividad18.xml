@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".actividad16">
+    tools:context=".actividad18">
 
     <TextView
-        android:id="@+id/textView94"
+        android:id="@+id/textView152"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Campo de Trabajo"
@@ -20,77 +20,91 @@
         app:layout_constraintVertical_bias="0.285" />
 
     <TextView
-        android:id="@+id/textView123"
-        android:layout_width="195dp"
-        android:layout_height="27dp"
-        android:text="Instituciones asistenciales para menores y adultos mayores."
+        android:id="@+id/textView153"
+        android:layout_width="126dp"
+        android:layout_height="13dp"
+        android:text="Gimnasios."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.986"
+        app:layout_constraintHorizontal_bias="0.736"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.362" />
+        app:layout_constraintVertical_bias="0.353" />
 
     <TextView
-        android:id="@+id/textView122"
-        android:layout_width="190dp"
-        android:layout_height="14dp"
-        android:text="Instituciones de salud pública y privada."
+        android:id="@+id/textView154"
+        android:layout_width="112dp"
+        android:layout_height="13dp"
+        android:text="Docencia."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.963"
+        app:layout_constraintHorizontal_bias="0.702"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.336" />
+        app:layout_constraintVertical_bias="0.335" />
 
     <TextView
-        android:id="@+id/textView119"
-        android:layout_width="186dp"
-        android:layout_height="15dp"
-        android:text="Industria farmacéutica."
+        android:id="@+id/textView155"
+        android:layout_width="102dp"
+        android:layout_height="12dp"
+        android:text="ONG"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.946"
+        app:layout_constraintHorizontal_bias="0.679"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.321" />
+        app:layout_constraintVertical_bias="0.319" />
 
     <TextView
-        android:id="@+id/textView111"
-        android:layout_width="197dp"
-        android:layout_height="30dp"
-        android:text="Instituciones educativas dedicadas a la formación en Enfermería."
+        android:id="@+id/textView156"
+        android:layout_width="141dp"
+        android:layout_height="12dp"
+        android:text="Preparador físico independiente."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.995"
+        app:layout_constraintHorizontal_bias="0.788"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.39" />
+        app:layout_constraintVertical_bias="0.368" />
 
     <TextView
-        android:id="@+id/textView120"
-        android:layout_width="198dp"
-        android:layout_height="32dp"
-        android:text="Organizaciones que ofrezcan servicios asistenciales de salud a su personal."
+        android:id="@+id/textView157"
+        android:layout_width="137dp"
+        android:layout_height="12dp"
+        android:text="Sector educativo público y privado."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.766"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.423" />
+        app:layout_constraintVertical_bias="0.385" />
+
+    <TextView
+        android:id="@+id/textView170"
+        android:layout_width="145dp"
+        android:layout_height="13dp"
+        android:text="Centros deportivos de alto rendimiento."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.789"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.402" />
 
     <ImageView
-        android:id="@+id/imageView42"
+        android:id="@+id/imageView49"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:backgroundTint="#ffffff"
@@ -103,7 +117,7 @@
         app:srcCompat="@drawable/campolaboral" />
 
     <ImageView
-        android:id="@+id/imageView34"
+        android:id="@+id/imageView50"
         android:layout_width="118dp"
         android:layout_height="90dp"
         android:layout_marginStart="20dp"
@@ -116,22 +130,22 @@
         app:srcCompat="@drawable/logo" />
 
     <TextView
-        android:id="@+id/textView125"
-        android:layout_width="163dp"
-        android:layout_height="29dp"
-        android:text="Enfermería "
+        android:id="@+id/textView158"
+        android:layout_width="171dp"
+        android:layout_height="42dp"
+        android:text="Acondicionamiento Físico"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.826"
+        app:layout_constraintHorizontal_bias="0.829"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.049" />
+        app:layout_constraintVertical_bias="0.044" />
 
     <TextView
-        android:id="@+id/textView126"
+        android:id="@+id/textView159"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Perfil de Ingreso"
@@ -144,10 +158,10 @@
         app:layout_constraintVertical_bias="0.285" />
 
     <TextView
-        android:id="@+id/textView127"
+        android:id="@+id/textView160"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Creatividad para afrontar retos y desafíos"
+        android:text="Buen estado de salud física y emocional."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -158,80 +172,80 @@
         app:layout_constraintVertical_bias="0.365" />
 
     <TextView
-        android:id="@+id/textView137"
-        android:layout_width="145dp"
-        android:layout_height="26dp"
-        android:text="Estudios de nivel medio superior concluidos"
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.048"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.388" />
-
-    <TextView
-        android:id="@+id/textView128"
+        android:id="@+id/textView162"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Buen estado de salud físico y emocional"
+        android:text="Capacidad de trabajo en equipo."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintHorizontal_bias="0.043"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.35" />
 
     <TextView
-        android:id="@+id/textView129"
+        android:id="@+id/textView163"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Actitud de servicio y trabajo en equipo"
+        android:text="Adaptación al cambio."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintHorizontal_bias="0.039"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.334" />
 
     <TextView
-        android:id="@+id/textView131"
-        android:layout_width="152dp"
-        android:layout_height="56dp"
-        android:text="Sentido humanista, responsable, tolerante, paciente, honesto y con adaptación al cambio"
+        android:id="@+id/textView164"
+        android:layout_width="127dp"
+        android:layout_height="27dp"
+        android:text="Estudios de nivel medio superior concluidos."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.046"
+        app:layout_constraintHorizontal_bias="0.045"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.438" />
+        app:layout_constraintVertical_bias="0.393" />
 
     <TextView
-        android:id="@+id/textView132"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Buena Comunicación oral y escrita "
+        android:id="@+id/textView165"
+        android:layout_width="147dp"
+        android:layout_height="33dp"
+        android:text="Creatividad e innovación para el desarrollo de actividades físicas y recreativas."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.047"
+        app:layout_constraintHorizontal_bias="0.049"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.424" />
+
+    <TextView
+        android:id="@+id/textView166"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Habilidad de liderazgo."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.039"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.319" />
 
     <TextView
-        android:id="@+id/textView134"
+        android:id="@+id/textView167"
         android:layout_width="326dp"
         android:layout_height="66dp"
-        android:text="El egresado de la Licenciatura en Enfermería de UAMP poseerá una formación innovadora, competitiva y de alta calidad, que dé respuesta a las demandas de salud de la población. La articulación entre formación y práctica profesional se concentra en torno a los cuatro núcleos básicos de Enfermería: persona, entorno, salud y cuidado."
+        android:text="El egresado de la Licenciatura en Acondicionamiento Físico de UAMP podrá desempeñarse con eficiencia, responsabilidad, y sentido humanitario en equipos tanto multidisciplinarios como interdisciplinarios, en los campos profesionales de la salud, educación, medio ambiente, producción y consumo.."
         android:textAlignment="textStart"
         android:textColor="@color/black"
         android:textSize="8sp"
@@ -243,7 +257,7 @@
         app:layout_constraintVertical_bias="0.202" />
 
     <TextView
-        android:id="@+id/textView135"
+        android:id="@+id/textView168"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Perfil de Egreso"
@@ -256,20 +270,20 @@
         app:layout_constraintVertical_bias="0.15" />
 
     <TextView
-        android:id="@+id/textView136"
+        android:id="@+id/textView169"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Plan de Estudios"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.055"
+        app:layout_constraintHorizontal_bias="0.039"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.554" />
+        app:layout_constraintVertical_bias="0.551" />
 
     <ImageView
-        android:id="@+id/imageView39"
+        android:id="@+id/imageView51"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:backgroundTint="#ffffff"
@@ -283,7 +297,7 @@
         app:srcCompat="@drawable/perfildeingreso" />
 
     <ImageView
-        android:id="@+id/imageView41"
+        android:id="@+id/imageView52"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:backgroundTint="#ffffff"
@@ -296,20 +310,20 @@
         app:srcCompat="@drawable/perfildeegreso" />
 
     <ImageView
-        android:id="@+id/imageView43"
+        android:id="@+id/imageView53"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:backgroundTint="#ffffff"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.373"
+        app:layout_constraintHorizontal_bias="0.358"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.552"
+        app:layout_constraintVertical_bias="0.551"
         app:srcCompat="@drawable/plandeestudios" />
 
     <ImageView
-        android:id="@+id/imageView44"
+        android:id="@+id/imageView54"
         android:layout_width="200dp"
         android:layout_height="150dp"
         android:scaleType="centerInside"
@@ -319,15 +333,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.75"
-        app:srcCompat="@drawable/enfermeriaplandeestudios" />
+        app:srcCompat="@drawable/plandeestudiosacondicionamientofisico" />
 
     <Button
-        android:id="@+id/button16"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:id="@+id/button18"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
         android:backgroundTint="#2196F3"
         android:text="Regresar"
-        android:onClick="actividadenfermeria"
+        android:onClick="acondicionamientofisico"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.95"

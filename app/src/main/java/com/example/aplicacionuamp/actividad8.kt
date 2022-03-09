@@ -15,4 +15,16 @@ class actividad8 : AppCompatActivity() {
         val intent = Intent(this, actividad5()::class.java)
         startActivity(intent)
     }
+    fun acondicionamientofisico(view: View){
+        val intent = Intent(this, actividad18()::class.java)
+        startActivity(intent)
+    }
+    fun criminologiaycriminalista(view: View){
+        val intent = Intent(this, actividad19()::class.java)
+        startActivity(intent)
+    }
+    fun derecho(view: View){
+        val intent = Intent(this, actividad20()::class.java)
+        startActivity(intent)
+    }
 }

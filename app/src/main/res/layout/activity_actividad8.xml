@@ -24,19 +24,19 @@
         android:id="@+id/textView27"
         android:layout_width="190dp"
         android:layout_height="36dp"
-        android:layout_marginEnd="20dp"
         android:text="Área de Ciencias Sociales y Humanidades"
         android:textAlignment="center"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.935"
+        app:layout_constraintHorizontal_bias="0.941"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.083" />
+        app:layout_constraintVertical_bias="0.066" />
 
     <ImageButton
         android:id="@+id/btnacondicionamiento"
+        android:onClick="acondicionamientofisico"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:backgroundTint="#ffffff"
@@ -65,6 +65,7 @@
 
     <ImageButton
         android:id="@+id/btncriminologia"
+        android:onClick="criminologiaycriminalista"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:backgroundTint="#ffffff"
@@ -93,6 +94,7 @@
 
     <ImageButton
         android:id="@+id/btnderecho"
+        android:onClick="derecho"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:backgroundTint="#ffffff"
