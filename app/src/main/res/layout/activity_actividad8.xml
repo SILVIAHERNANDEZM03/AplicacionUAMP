@@ -123,6 +123,7 @@
 
     <ImageButton
         android:id="@+id/btnestilismo"
+        android:onClick="estilismoycosmetología"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:backgroundTint="#ffffff"
@@ -151,6 +152,7 @@
 
     <ImageButton
         android:id="@+id/btnidiomas"
+        android:onClick="idiomas"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:backgroundTint="#ffffff"
@@ -179,6 +181,7 @@
 
     <ImageButton
         android:id="@+id/btnpsicologia"
+        android:onClick="psicologíaAplicada"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:backgroundTint="#ffffff"
@@ -207,6 +210,7 @@
 
     <ImageButton
         android:id="@+id/btnpsicopedagogia"
+        android:onClick="psicopedagogíaAplicada"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:backgroundTint="#ffffff"

@@ -27,4 +27,20 @@ class actividad8 : AppCompatActivity() {
         val intent = Intent(this, actividad20()::class.java)
         startActivity(intent)
     }
+    fun estilismoycosmetología(view: View){
+        val intent = Intent(this, actividad21()::class.java)
+        startActivity(intent)
+    }
+    fun idiomas(view: View){
+        val intent = Intent(this, actividad22()::class.java)
+        startActivity(intent)
+    }
+    fun psicologíaAplicada(view: View){
+        val intent = Intent(this, actividad23()::class.java)
+        startActivity(intent)
+    }
+    fun psicopedagogíaAplicada(view: View){
+        val intent = Intent(this, actividad24()::class.java)
+        startActivity(intent)
+    }
 }

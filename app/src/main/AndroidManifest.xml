@@ -10,6 +10,30 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AplicacionUAMP">
         <activity
+            android:name=".actividad28"
+            android:exported="false" />
+        <activity
+            android:name=".actividad27"
+            android:exported="false" />
+        <activity
+            android:name=".actividad26"
+            android:exported="false" />
+        <activity
+            android:name=".actividad25"
+            android:exported="false" />
+        <activity
+            android:name=".actividad24"
+            android:exported="false" />
+        <activity
+            android:name=".actividad23"
+            android:exported="false" />
+        <activity
+            android:name=".actividad22"
+            android:exported="false" />
+        <activity
+            android:name=".actividad21"
+            android:exported="false" />
+        <activity
             android:name=".actividad20"
             android:exported="false" />
         <activity

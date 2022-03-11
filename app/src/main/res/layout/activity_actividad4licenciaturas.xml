@@ -50,6 +50,7 @@
 
     <ImageButton
         android:id="@+id/imageButton10"
+        android:onClick="administracióndeEmpresas"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:backgroundTint="#ffffff"
@@ -122,6 +123,7 @@
 
     <ImageButton
         android:id="@+id/btngastronomia"
+        android:onClick="gastronomíayTurismo"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:backgroundTint="#ffffff"
@@ -181,6 +183,7 @@
 
     <ImageButton
         android:id="@+id/imageButton9"
+        android:onClick="negociosInternacionales"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:backgroundTint="#ffffff"
@@ -195,6 +198,7 @@
 
     <ImageButton
         android:id="@+id/imageButton14"
+        android:onClick="contaduríapublica"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:backgroundTint="#ffffff"
