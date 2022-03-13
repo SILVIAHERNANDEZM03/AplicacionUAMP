@@ -10,7 +10,7 @@
         android:id="@+id/textView216"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Campo de Trabajo"
+        android:text="Campo de Trabajo."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -21,79 +21,84 @@
 
     <TextView
         android:id="@+id/textView224"
-        android:layout_width="138dp"
-        android:layout_height="26dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
         android:text="Capacitación lingüística de personas."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.904"
+        app:layout_constraintHorizontal_bias="0.911"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.417" />
+        app:layout_constraintVertical_bias="0.396" />
 
     <TextView
         android:id="@+id/textView225"
-        android:layout_width="143dp"
-        android:layout_height="14dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
         android:text="Traducciones técnicas y comerciales."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.921"
+        app:layout_constraintHorizontal_bias="0.911"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.391" />
+        app:layout_constraintVertical_bias="0.382" />
 
     <TextView
         android:id="@+id/textView226"
-        android:layout_width="141dp"
-        android:layout_height="16dp"
+        android:layout_width="100dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
         android:text="Empresas editoriales."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.914"
+        app:layout_constraintHorizontal_bias="0.72"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.36" />
+        app:layout_constraintVertical_bias="0.355" />
 
     <TextView
         android:id="@+id/textView227"
-        android:layout_width="122dp"
-        android:layout_height="12dp"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
         android:text="Organismos internacionales."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.833"
+        app:layout_constraintHorizontal_bias="0.81"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.372" />
+        app:layout_constraintVertical_bias="0.368" />
 
     <TextView
         android:id="@+id/textView228"
-        android:layout_width="144dp"
-        android:layout_height="21dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
         android:text="Asistencia de traducción en embajadas y consulados en el extranjero."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.925"
+        app:layout_constraintHorizontal_bias="0.911"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.435" />
+        app:layout_constraintVertical_bias="0.416" />
 
     <TextView
         android:id="@+id/textView229"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Ingreso"
+        android:text="Perfil de Ingreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -107,6 +112,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Interés y aprecio por la diversidad cultural."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -118,23 +124,25 @@
 
     <TextView
         android:id="@+id/textView231"
-        android:layout_width="144dp"
-        android:layout_height="24dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
         android:text="Dinamismo por crear nuevos proyectos."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.063"
+        app:layout_constraintHorizontal_bias="0.065"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.422" />
+        app:layout_constraintVertical_bias="0.414" />
 
     <TextView
         android:id="@+id/textView232"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Habilidades de ortografía y redacción."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -149,6 +157,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Gusto por enseñar."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -160,37 +169,40 @@
 
     <TextView
         android:id="@+id/textView234"
-        android:layout_width="127dp"
-        android:layout_height="27dp"
-        android:text="Estudios de nivel medio superior concluidos"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:text="Estudios de nivel medio superior concluidos."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.059"
+        app:layout_constraintHorizontal_bias="0.065"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.438" />
+        app:layout_constraintVertical_bias="0.45" />
 
     <TextView
         android:id="@+id/textView235"
-        android:layout_width="127dp"
-        android:layout_height="27dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
         android:text="Excelentes relaciones interpersonales."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.056"
+        app:layout_constraintHorizontal_bias="0.065"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.468" />
+        app:layout_constraintVertical_bias="0.429" />
 
     <TextView
         android:id="@+id/textView236"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Gusto por la lectura."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -204,7 +216,7 @@
         android:id="@+id/textView237"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Plan de Estudios"
+        android:text="Plan de Estudios."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -270,7 +282,7 @@
         android:id="@+id/textView238"
         android:layout_width="131dp"
         android:layout_height="28dp"
-        android:text="Idiomas"
+        android:text="Idiomas."
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
@@ -283,15 +295,15 @@
 
     <TextView
         android:id="@+id/textView239"
-        android:layout_width="341dp"
-        android:layout_height="65dp"
+        android:layout_width="312dp"
+        android:layout_height="50dp"
+        android:justificationMode="inter_word"
         android:text="El egresado de Licenciatura en idiomas de UAMP, será capaz de: entender, hablar, escribir y expresarse correctamente en los cuatro idiomas (inglés, alemán, francés e italiano). Implementar el diseño de la evaluación de cursos de idiomas, realizar investigaciones sobre la enseñanza de los idiomas, como lenguaje extranjero. Así como contar con la práctica necesaria respaldada por una sólida formación teórica."
         android:textAlignment="textStart"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.528"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.205" />
@@ -300,7 +312,7 @@
         android:id="@+id/textView240"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Egreso"
+        android:text="Perfil de Egreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

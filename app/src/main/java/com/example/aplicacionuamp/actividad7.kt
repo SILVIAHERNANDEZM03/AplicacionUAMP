@@ -22,4 +22,8 @@ class actividad7 : AppCompatActivity() {
         val intent = Intent(this, actividad17()::class.java)
         startActivity(intent)
     }
+    fun nutricionclinica(view: View){
+        val intent = Intent(this, actividad30()::class.java)
+        startActivity(intent)
+    }
 }

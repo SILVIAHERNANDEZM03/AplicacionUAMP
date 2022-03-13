@@ -10,7 +10,7 @@
         android:id="@+id/textView340"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Campo de Trabajo"
+        android:text="Campo de Trabajo."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -21,93 +21,99 @@
 
     <TextView
         android:id="@+id/textView341"
-        android:layout_width="134dp"
-        android:layout_height="14dp"
-        android:text="Operador de logística internacional. "
+        android:layout_width="150dp"
+        android:layout_height="10dp"
+        android:text="Operador de logística internacional."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.891"
+        app:layout_constraintHorizontal_bias="0.9"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.43" />
+        app:layout_constraintVertical_bias="0.399" />
 
     <TextView
         android:id="@+id/textView342"
-        android:layout_width="143dp"
-        android:layout_height="14dp"
-        android:text="Comercializadoras internacionales"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
+        android:text="Comercializadoras internacionales."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.921"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.411" />
-
-    <TextView
-        android:id="@+id/textView343"
-        android:layout_width="141dp"
-        android:layout_height="16dp"
-        android:text="Empresas de Logística Internacional."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.914"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.36" />
-
-    <TextView
-        android:id="@+id/textView344"
-        android:layout_width="136dp"
-        android:layout_height="21dp"
-        android:text="Integrador de productos de exportación."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.898"
+        app:layout_constraintHorizontal_bias="0.9"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.385" />
 
     <TextView
-        android:id="@+id/textView345"
-        android:layout_width="144dp"
-        android:layout_height="21dp"
-        android:text="Evaluador y estructurador de sistemas de negocios internacionales, etc."
+        android:id="@+id/textView343"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
+        android:text="Empresas de Logística Internacional."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.921"
+        app:layout_constraintHorizontal_bias="0.9"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.454" />
+        app:layout_constraintVertical_bias="0.357" />
+
+    <TextView
+        android:id="@+id/textView344"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
+        android:text="Integrador de productos de exportación."
+        android:justificationMode="inter_word"
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.9"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.371" />
+
+    <TextView
+        android:id="@+id/textView345"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:text="Evaluador y estructurador de sistemas de negocios internacionales, etc."
+        android:justificationMode="inter_word"
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.9"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.419" />
 
     <TextView
         android:id="@+id/textView360"
-        android:layout_width="144dp"
-        android:layout_height="21dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
         android:text="Responsable de división de negocios internacionales de una empresa."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.925"
+        app:layout_constraintHorizontal_bias="0.9"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.484" />
+        app:layout_constraintVertical_bias="0.447" />
 
     <TextView
         android:id="@+id/textView348"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Ingreso"
+        android:text="Perfil de Ingreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -117,24 +123,10 @@
         app:layout_constraintVertical_bias="0.32" />
 
     <TextView
-        android:id="@+id/textView349"
-        android:layout_width="146dp"
-        android:layout_height="16dp"
-        android:text="...."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.075"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.36" />
-
-    <TextView
         android:id="@+id/textView356"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Plan de Estudios"
+        android:text="Plan de Estudios."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -200,7 +192,7 @@
         android:id="@+id/textView357"
         android:layout_width="137dp"
         android:layout_height="40dp"
-        android:text="Negocios Internacionales"
+        android:text="Negocios Internacionales."
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
@@ -212,25 +204,10 @@
         app:layout_constraintVertical_bias="0.049" />
 
     <TextView
-        android:id="@+id/textView358"
-        android:layout_width="336dp"
-        android:layout_height="59dp"
-        android:text="..."
-        android:textAlignment="textStart"
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.493"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.208" />
-
-    <TextView
         android:id="@+id/textView359"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Egreso"
+        android:text="Perfil de Egreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -279,4 +256,30 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.9" />
+
+    <ImageView
+        android:id="@+id/imageView117"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:backgroundTint="#ffffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.109"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.422"
+        app:srcCompat="@drawable/proximamente" />
+
+    <ImageView
+        android:id="@+id/imageView118"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:backgroundTint="#ffffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.439"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.191"
+        app:srcCompat="@drawable/proximamente" />
 </androidx.constraintlayout.widget.ConstraintLayout>

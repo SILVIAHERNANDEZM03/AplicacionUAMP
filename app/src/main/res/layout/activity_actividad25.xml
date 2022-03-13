@@ -10,7 +10,7 @@
         android:id="@+id/textView277"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Campo de Trabajo"
+        android:text="Campo de Trabajo."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -20,108 +20,115 @@
         app:layout_constraintVertical_bias="0.32" />
 
     <TextView
-        android:id="@+id/textView278"
-        android:layout_width="143dp"
-        android:layout_height="13dp"
-        android:text="Empresas públicas y privadas."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.917"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.42" />
-
-    <TextView
-        android:id="@+id/textView279"
-        android:layout_width="143dp"
-        android:layout_height="14dp"
-        android:text="Asesoría y consultoría particular."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.921"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.401" />
-
-    <TextView
         android:id="@+id/textView280"
-        android:layout_width="141dp"
-        android:layout_height="16dp"
+        android:layout_width="100dp"
+        android:layout_height="10dp"
         android:text="Centros de investigación."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.914"
+        app:layout_constraintHorizontal_bias="0.736"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.36" />
+        app:layout_constraintVertical_bias="0.357" />
 
     <TextView
         android:id="@+id/textView281"
-        android:layout_width="141dp"
-        android:layout_height="17dp"
+        android:layout_width="100dp"
+        android:layout_height="10dp"
         android:text="Instituciones educativas."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.914"
+        app:layout_constraintHorizontal_bias="0.736"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.379" />
-
-    <TextView
-        android:id="@+id/textView282"
-        android:layout_width="144dp"
-        android:layout_height="21dp"
-        android:text="Empresas manufactureras y de servicios."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.921"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.488" />
-
-    <TextView
-        android:id="@+id/textView283"
-        android:layout_width="149dp"
-        android:layout_height="21dp"
-        android:text="Creación y dirección de empresas propias."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.938"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.459" />
+        app:layout_constraintVertical_bias="0.371" />
 
     <TextView
         android:id="@+id/textView284"
-        android:layout_width="146dp"
-        android:layout_height="12dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
         android:text="Administración financiera y comercial."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.928"
+        app:layout_constraintHorizontal_bias="0.904"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.436" />
+        app:layout_constraintVertical_bias="0.413" />
+
+    <TextView
+        android:id="@+id/textView282"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Empresas manufactureras y de servicios."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.904"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.427" />
+
+    <TextView
+        android:id="@+id/textView283"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
+        android:text="Creación y dirección de empresas propias."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.904"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.447" />
+
+    <TextView
+        android:id="@+id/textView278"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Empresas públicas y privadas."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.399" />
+
+    <TextView
+        android:id="@+id/textView279"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Asesoría y consultoría particular."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.385" />
 
     <TextView
         android:id="@+id/textView285"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Ingreso"
+        android:text="Perfil de Ingreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -132,121 +139,128 @@
 
     <TextView
         android:id="@+id/textView286"
-        android:layout_width="146dp"
-        android:layout_height="16dp"
+        android:layout_width="50dp"
+        android:layout_height="10dp"
         android:text="Dinamismo."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.075"
+        app:layout_constraintHorizontal_bias="0.069"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.36" />
+        app:layout_constraintVertical_bias="0.357" />
 
     <TextView
         android:id="@+id/textView287"
-        android:layout_width="150dp"
-        android:layout_height="14dp"
+        android:layout_width="75dp"
+        android:layout_height="10dp"
         android:text="Multidisciplinarios."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.076"
+        app:layout_constraintHorizontal_bias="0.074"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.382" />
+        app:layout_constraintVertical_bias="0.371" />
 
     <TextView
         android:id="@+id/textView288"
-        android:layout_width="147dp"
-        android:layout_height="32dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
         android:text="Estudios de nivel medio superior concluidos."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.075"
+        app:layout_constraintHorizontal_bias="0.095"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.525" />
+        app:layout_constraintVertical_bias="0.475" />
 
     <TextView
         android:id="@+id/textView289"
-        android:layout_width="149dp"
-        android:layout_height="16dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
         android:text="Creatividad para afrontar retos y desafíos."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.076"
+        app:layout_constraintHorizontal_bias="0.095"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.461" />
+        app:layout_constraintVertical_bias="0.427" />
 
     <TextView
         android:id="@+id/textView297"
-        android:layout_width="152dp"
-        android:layout_height="24dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
         android:text="Capacidad de análisis y pensamiento crítico."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.077"
+        app:layout_constraintHorizontal_bias="0.095"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.489" />
+        app:layout_constraintVertical_bias="0.447" />
 
     <TextView
         android:id="@+id/textView290"
-        android:layout_width="149dp"
-        android:layout_height="16dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
         android:text="Disposición para trabajar con equipos."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.076"
+        app:layout_constraintHorizontal_bias="0.095"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.439" />
+        app:layout_constraintVertical_bias="0.413" />
 
     <TextView
         android:id="@+id/textView291"
-        android:layout_width="149dp"
-        android:layout_height="16dp"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
         android:text="Buena comunicación oral y escrita."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.076"
+        app:layout_constraintHorizontal_bias="0.087"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.423" />
+        app:layout_constraintVertical_bias="0.399" />
 
     <TextView
         android:id="@+id/textView292"
-        android:layout_width="149dp"
-        android:layout_height="16dp"
+        android:layout_width="100dp"
+        android:layout_height="10dp"
         android:text="Capacidad de innovación."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.076"
+        app:layout_constraintHorizontal_bias="0.08"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.402" />
+        app:layout_constraintVertical_bias="0.385" />
 
     <TextView
         android:id="@+id/textView293"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Plan de Estudios"
+        android:text="Plan de Estudios."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -312,7 +326,7 @@
         android:id="@+id/textView294"
         android:layout_width="137dp"
         android:layout_height="40dp"
-        android:text="Administración de Empresas"
+        android:text="Administración de Empresas."
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
@@ -325,8 +339,9 @@
 
     <TextView
         android:id="@+id/textView295"
-        android:layout_width="336dp"
-        android:layout_height="59dp"
+        android:layout_width="293dp"
+        android:layout_height="50dp"
+        android:justificationMode="inter_word"
         android:text="El egresado de la Licenciatura en Administración de Empresas de UAMP poseerá conocimiento integral de la empresa, entendiendo los retos de las áreas funcionales de la misma. Tendrá la habilidad de realizar propuestas creativas, de innovación y emprendimiento de nuevos negocios, además de mejorar los procesos de comunicación organizacional."
         android:textAlignment="textStart"
         android:textColor="@color/black"
@@ -342,7 +357,7 @@
         android:id="@+id/textView296"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Egreso"
+        android:text="Perfil de Egreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

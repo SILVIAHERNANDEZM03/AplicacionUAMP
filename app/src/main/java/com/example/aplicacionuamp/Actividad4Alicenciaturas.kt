@@ -30,5 +30,13 @@ class Actividad4licenciaturas : AppCompatActivity() {
         val intent = Intent(this, actividad28()::class.java)
         startActivity(intent)
     }
+    fun administracionDeportiva(view: View) {
+        val intent = Intent(this, actividad31()::class.java)
+        startActivity(intent)
+    }
+    fun marketingDigital(view: View) {
+        val intent = Intent(this, actividad32()::class.java)
+        startActivity(intent)
+    }
 
 }

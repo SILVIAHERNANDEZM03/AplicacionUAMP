@@ -4,55 +4,57 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".actividad9">
-
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="118dp"
-        android:layout_height="90dp"
-        android:layout_marginStart="20dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.1"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.050000012"
-        app:srcCompat="@drawable/logo" />
+    tools:context=".actividad29">
 
     <TextView
-        android:id="@+id/textView35"
+        android:id="@+id/textView347"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Tareas."
+        android:text="Horario"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.692"
+        app:layout_constraintHorizontal_bias="0.74"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.093" />
+        app:layout_constraintVertical_bias="0.097" />
 
-    <TextView
-        android:id="@+id/textView36"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="No hay tareas pendientes."
-        android:textAlignment="center"
+    <ImageView
+        android:id="@+id/imageView114"
+        android:layout_width="118dp"
+        android:layout_height="90dp"
+        android:layout_marginStart="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.091"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.53" />
+        app:layout_constraintVertical_bias="0.054"
+        app:srcCompat="@drawable/logo" />
+
+    <ImageView
+        android:id="@+id/imageView115"
+        android:layout_width="366dp"
+        android:layout_height="276dp"
+        android:backgroundTint="#ffffff"
+        android:scaleType="centerInside"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.461"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.425"
+        app:srcCompat="@drawable/horario" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/button31"
         android:layout_width="150dp"
         android:layout_height="50dp"
         android:backgroundTint="#2196F3"
-        android:onClick="actividadtareas"
         android:text="Regresar"
+        android:onClick="horario"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.95"

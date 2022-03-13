@@ -10,7 +10,7 @@
         android:id="@+id/textView241"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Campo de Trabajo"
+        android:text="Campo de Trabajo."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -21,93 +21,99 @@
 
     <TextView
         android:id="@+id/textView242"
-        android:layout_width="116dp"
-        android:layout_height="15dp"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
         android:text="Centros de atención geriátrica."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.82"
+        app:layout_constraintHorizontal_bias="0.835"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.425" />
+        app:layout_constraintVertical_bias="0.409" />
 
     <TextView
         android:id="@+id/textView243"
-        android:layout_width="143dp"
-        android:layout_height="14dp"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
         android:text="Instituciones educativas."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.917"
+        app:layout_constraintHorizontal_bias="0.835"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.412" />
+        app:layout_constraintVertical_bias="0.367" />
 
     <TextView
         android:id="@+id/textView244"
-        android:layout_width="141dp"
-        android:layout_height="16dp"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
         android:text="Hospitales públicos y privados."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.914"
+        app:layout_constraintHorizontal_bias="0.835"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.36" />
+        app:layout_constraintVertical_bias="0.353" />
 
     <TextView
         android:id="@+id/textView245"
-        android:layout_width="142dp"
-        android:layout_height="31dp"
-        android:text="Centros de reclutamiento y selección de personal"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
+        android:text="Centros de reclutamiento y selección de personal."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.914"
+        app:layout_constraintHorizontal_bias="0.938"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.391" />
+        app:layout_constraintVertical_bias="0.428" />
 
     <TextView
         android:id="@+id/textView246"
-        android:layout_width="144dp"
-        android:layout_height="21dp"
-        android:text="Instituciones de salud mental. "
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:text="Instituciones de salud mental."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.921"
+        app:layout_constraintHorizontal_bias="0.835"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.464" />
+        app:layout_constraintVertical_bias="0.395" />
 
     <TextView
         android:id="@+id/textView259"
-        android:layout_width="144dp"
-        android:layout_height="21dp"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
         android:text="Consultorios privados."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.925"
+        app:layout_constraintHorizontal_bias="0.835"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.446" />
+        app:layout_constraintVertical_bias="0.381" />
 
     <TextView
         android:id="@+id/textView247"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Ingreso"
+        android:text="Perfil de Ingreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -118,9 +124,10 @@
 
     <TextView
         android:id="@+id/textView248"
-        android:layout_width="146dp"
-        android:layout_height="41dp"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
         android:text="Sentido humanista, honesto, confidencial y capaz de generar confiabilidad con las personas."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -132,37 +139,10 @@
 
     <TextView
         android:id="@+id/textView249"
-        android:layout_width="147dp"
-        android:layout_height="30dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
         android:text="Amplia capacidad de razonamiento analítico y Empatía con los demás."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.075"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.409" />
-
-    <TextView
-        android:id="@+id/textView252"
-        android:layout_width="147dp"
-        android:layout_height="32dp"
-        android:text="Estudios de nivel medio superior concluidos"
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.075"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.442" />
-
-    <TextView
-        android:id="@+id/textView253"
-        android:layout_width="148dp"
-        android:layout_height="29dp"
-        android:text="Convicción por mejorar la calidad de vida de los demás"
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -170,13 +150,43 @@
         app:layout_constraintHorizontal_bias="0.076"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.47" />
+        app:layout_constraintVertical_bias="0.406" />
+
+    <TextView
+        android:id="@+id/textView252"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:text="Estudios de nivel medio superior concluidos."
+        android:justificationMode="inter_word"
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.076"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.434" />
+
+    <TextView
+        android:id="@+id/textView253"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:text="Convicción por mejorar la calidad de vida de los demás."
+        android:justificationMode="inter_word"
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.076"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.462" />
 
     <TextView
         android:id="@+id/textView255"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Plan de Estudios"
+        android:text="Plan de Estudios."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -242,7 +252,7 @@
         android:id="@+id/textView256"
         android:layout_width="137dp"
         android:layout_height="40dp"
-        android:text="Psicología Aplicada"
+        android:text="Psicología Aplicada."
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
@@ -255,24 +265,25 @@
 
     <TextView
         android:id="@+id/textView257"
-        android:layout_width="336dp"
-        android:layout_height="59dp"
+        android:layout_width="307dp"
+        android:layout_height="45dp"
+        android:justificationMode="inter_word"
         android:text="El egresado de la Licenciatura en Psicología Aplicada de UAMP podrá desempeñarse con eficiencia, Responsabilidad, y sentido humanitario en equipos tanto multidisciplinarios como interdisciplinarios, en los campos profesionales de la salud, educación, medio ambiente, producción y consumo, y convivencia social."
         android:textAlignment="textStart"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintHorizontal_bias="0.461"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.208" />
+        app:layout_constraintVertical_bias="0.221" />
 
     <TextView
         android:id="@+id/textView258"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Egreso"
+        android:text="Perfil de Egreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

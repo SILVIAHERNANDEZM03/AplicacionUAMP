@@ -8,23 +8,24 @@
 
     <TextView
         android:id="@+id/textView210"
-        android:layout_width="143dp"
-        android:layout_height="32dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
         android:text="Creación de empresas propias orientadas al estilismo y la cosmetología."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.921"
+        app:layout_constraintHorizontal_bias="0.923"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.446" />
+        app:layout_constraintVertical_bias="0.428" />
 
     <TextView
         android:id="@+id/textView205"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Campo de Trabajo"
+        android:text="Campo de Trabajo."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -35,65 +36,69 @@
 
     <TextView
         android:id="@+id/textView209"
-        android:layout_width="122dp"
-        android:layout_height="12dp"
+        android:layout_width="75dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
         android:text="Negocios de belleza."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.844"
+        app:layout_constraintHorizontal_bias="0.68"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.342" />
+        app:layout_constraintVertical_bias="0.339" />
 
     <TextView
         android:id="@+id/textView207"
-        android:layout_width="143dp"
+        android:layout_width="150dp"
         android:layout_height="10dp"
         android:text="Asesor de imagen independiente."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.921"
+        app:layout_constraintHorizontal_bias="0.923"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.359" />
+        app:layout_constraintVertical_bias="0.353" />
 
     <TextView
         android:id="@+id/textView206"
-        android:layout_width="143dp"
-        android:layout_height="21dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
         android:text="Maquillaje profesional, social y de caracterización."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.921"
+        app:layout_constraintHorizontal_bias="0.923"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.38" />
+        app:layout_constraintVertical_bias="0.372" />
 
     <TextView
         android:id="@+id/textView223"
-        android:layout_width="144dp"
-        android:layout_height="21dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
         android:text="Representante de marcas de belleza y cuidado personal."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.925"
+        app:layout_constraintHorizontal_bias="0.923"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.409" />
+        app:layout_constraintVertical_bias="0.4" />
 
     <TextView
         android:id="@+id/textView211"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Ingreso"
+        android:text="Perfil de Ingreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -107,6 +112,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Cuidado estético de su imagen personal."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -118,23 +124,25 @@
 
     <TextView
         android:id="@+id/textView213"
-        android:layout_width="136dp"
-        android:layout_height="23dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
         android:text="Estudios de nivel medio superior concluidos."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.072"
+        app:layout_constraintHorizontal_bias="0.076"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.395" />
+        app:layout_constraintVertical_bias="0.393" />
 
     <TextView
         android:id="@+id/textView214"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Observación y análisis de la situación."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -149,6 +157,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Empatía con las personas."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -160,23 +169,25 @@
 
     <TextView
         android:id="@+id/textView217"
-        android:layout_width="138dp"
-        android:layout_height="31dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
         android:text="Creatividad e innovación para la creación de nuevos proyectos."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.073"
+        app:layout_constraintHorizontal_bias="0.076"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.432" />
+        app:layout_constraintVertical_bias="0.421" />
 
     <TextView
         android:id="@+id/textView218"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Trabajo en equipo."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -215,17 +226,18 @@
 
     <TextView
         android:id="@+id/textView208"
-        android:layout_width="102dp"
+        android:layout_width="50dp"
         android:layout_height="10dp"
+        android:justificationMode="inter_word"
         android:text="Docencia."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.786"
+        app:layout_constraintHorizontal_bias="0.62"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.33" />
+        app:layout_constraintVertical_bias="0.325" />
 
     <ImageView
         android:id="@+id/imageView70"
@@ -244,7 +256,7 @@
         android:id="@+id/textView220"
         android:layout_width="144dp"
         android:layout_height="41dp"
-        android:text="Estilismo y Cosmetología"
+        android:text="Estilismo y Cosmetología."
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
@@ -257,8 +269,9 @@
 
     <TextView
         android:id="@+id/textView221"
-        android:layout_width="334dp"
-        android:layout_height="58dp"
+        android:layout_width="294dp"
+        android:layout_height="45dp"
+        android:justificationMode="inter_word"
         android:text="El egresado de la Licenciatura en Estilismo Y Cosmetología de UAMP será capaz de entender su propia empresa enfocado a las actividades derivadas del estilismo. Así como trabajar en establecimientos enfocados en el estilismo y maquillaje profesional."
         android:textAlignment="textStart"
         android:textColor="@color/black"
@@ -274,7 +287,7 @@
         android:id="@+id/textView222"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Egreso"
+        android:text="Perfil de Egreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -330,7 +343,7 @@
         android:id="@+id/textView219"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Plan de Estudios"
+        android:text="Plan de Estudios."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

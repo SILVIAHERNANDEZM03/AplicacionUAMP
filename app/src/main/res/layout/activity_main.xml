@@ -19,6 +19,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/logo" />
 
+
+
     <Button
         android:id="@+id/button"
         android:layout_width="200dp"
@@ -33,18 +35,20 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
+
     <Button
         android:id="@+id/button2"
         android:layout_width="200dp"
         android:layout_height="60dp"
-        android:layout_marginTop="16dp"
         android:backgroundTint="#2196F3"
         android:onClick="actividad2iniciodesesion"
         android:text="Iniciar sesión"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.67" />
 
     <TextView
         android:id="@+id/textView"
@@ -68,10 +72,10 @@
         android:scaleType="centerInside"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.219"
+        app:layout_constraintHorizontal_bias="0.1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.94"
+        app:layout_constraintVertical_bias="0.95"
         app:srcCompat="@drawable/facebook" />
 
     <ImageButton
@@ -82,10 +86,9 @@
         android:scaleType="centerInside"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.548"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.94"
+        app:layout_constraintVertical_bias="0.95"
         app:srcCompat="@drawable/instagram" />
 
     <ImageButton
@@ -96,10 +99,10 @@
         android:scaleType="centerInside"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.856"
+        app:layout_constraintHorizontal_bias="0.9"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.94"
+        app:layout_constraintVertical_bias="0.95"
         app:srcCompat="@drawable/youtube" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

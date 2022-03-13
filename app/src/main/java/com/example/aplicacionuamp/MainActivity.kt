@@ -20,4 +20,11 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(this, actividad5()::class.java)
         startActivity(intent)
     }
+
+
+    override fun onDestroy() {
+        super.onDestroy()
+        onDestroy()
+    }
+
 }

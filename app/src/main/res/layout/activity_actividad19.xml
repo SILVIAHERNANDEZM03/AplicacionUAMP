@@ -7,38 +7,10 @@
     tools:context=".actividad19">
 
     <TextView
-        android:id="@+id/textView175"
-        android:layout_width="177dp"
-        android:layout_height="29dp"
-        android:text="Vocero en Materia de criminología en dependencias gubernamentales."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.927"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.437" />
-
-    <TextView
-        android:id="@+id/textView171"
-        android:layout_width="189dp"
-        android:layout_height="12dp"
-        android:text="Consultor independencia."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.981"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.389" />
-
-    <TextView
         android:id="@+id/textView161"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Campo de Trabajo"
+        android:text="Campo de Trabajo."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -48,38 +20,10 @@
         app:layout_constraintVertical_bias="0.32" />
 
     <TextView
-        android:id="@+id/textView173"
-        android:layout_width="186dp"
-        android:layout_height="15dp"
-        android:text="Derechos Humanos."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.964"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.357" />
-
-    <TextView
-        android:id="@+id/textView174"
-        android:layout_width="190dp"
-        android:layout_height="15dp"
-        android:text="Sectores bancarios."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.981"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.407" />
-
-    <TextView
         android:id="@+id/textView177"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Ingreso"
+        android:text="Perfil de Ingreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -89,23 +33,25 @@
         app:layout_constraintVertical_bias="0.32" />
 
     <TextView
-        android:id="@+id/textView178"
+        android:id="@+id/textView180"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=" Gusto por la investigación."
+        android:justificationMode="inter_word"
+        android:text="Creatividad e innovación."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.069"
+        app:layout_constraintHorizontal_bias="0.065"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.401" />
+        app:layout_constraintVertical_bias="0.373" />
 
     <TextView
         android:id="@+id/textView179"
-        android:layout_width="136dp"
-        android:layout_height="26dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
         android:text="Capacidad para afrontar retos y desafíos."
         android:textColor="@color/black"
         android:textSize="8sp"
@@ -114,27 +60,14 @@
         app:layout_constraintHorizontal_bias="0.08"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.425" />
+        app:layout_constraintVertical_bias="0.403" />
 
     <TextView
-        android:id="@+id/textView180"
+        android:id="@+id/textView178"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Creatividad e innovación."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.068"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.386" />
-
-    <TextView
-        android:id="@+id/textView181"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Pensamiento analítico."
+        android:justificationMode="inter_word"
+        android:text="Gusto por la investigación."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -142,41 +75,58 @@
         app:layout_constraintHorizontal_bias="0.066"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.37" />
+        app:layout_constraintVertical_bias="0.388" />
 
     <TextView
-        android:id="@+id/textView182"
-        android:layout_width="127dp"
-        android:layout_height="27dp"
-        android:text="Sentido crítico para la toma de decisiones."
+        android:id="@+id/textView181"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:justificationMode="inter_word"
+        android:text="Pensamiento analítico."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.077"
+        app:layout_constraintHorizontal_bias="0.063"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.457" />
+        app:layout_constraintVertical_bias="0.358" />
 
     <TextView
         android:id="@+id/textView184"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:justificationMode="inter_word"
         android:text="Madurez."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.057"
+        app:layout_constraintHorizontal_bias="0.055"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.355" />
+        app:layout_constraintVertical_bias="0.343" />
+
+    <TextView
+        android:id="@+id/textView182"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Sentido crítico para la toma de decisiones."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.08"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.417" />
 
     <TextView
         android:id="@+id/textView187"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Plan de Estudios"
+        android:text="Plan de Estudios."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -214,17 +164,78 @@
 
     <TextView
         android:id="@+id/textView172"
-        android:layout_width="190dp"
-        android:layout_height="14dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
         android:text="Centros de atención a víctimas del delito."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.986"
+        app:layout_constraintHorizontal_bias="0.873"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.372" />
+        app:layout_constraintVertical_bias="0.386" />
+
+    <TextView
+        android:id="@+id/textView175"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
+        android:text="Vocero en Materia de criminología en dependencias gubernamentales."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.873"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.406" />
+
+    <TextView
+        android:id="@+id/textView171"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Consultor independencia."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.78"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.359" />
+
+    <TextView
+        android:id="@+id/textView173"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Derechos Humanos."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.783"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.345" />
+
+    <TextView
+        android:id="@+id/textView174"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Sectores bancarios."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.783"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.371" />
 
     <ImageView
         android:id="@+id/imageView55"
@@ -256,7 +267,7 @@
         android:id="@+id/textView176"
         android:layout_width="166dp"
         android:layout_height="46dp"
-        android:text="Criminología y Criminalística"
+        android:text="Criminología y Criminalística."
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
@@ -270,7 +281,8 @@
     <TextView
         android:id="@+id/textView185"
         android:layout_width="336dp"
-        android:layout_height="84dp"
+        android:layout_height="70dp"
+        android:justificationMode="inter_word"
         android:text="El egresado de la Licenciatura en Criminología y Criminalística de UAMP será capaz de: coordinar acciones orientadas a la prevención victimo lógica y a la atención a víctimas del delito. Diseñar programas para la readaptación de los criminales. Realizar investigación social y/o científica en materia de criminología y criminalística. Crear programas actuales y contemporáneos contra problemas como la violencia, la impunidad, la corrupción y el crimen. Investigación de la escena del crimen a través de la aplicación del método científico para la identificación, ubicación, fijación, estudio y análisis del material sensible significativo campo."
         android:textAlignment="textStart"
         android:textColor="@color/black"
@@ -286,7 +298,7 @@
         android:id="@+id/textView186"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Egreso"
+        android:text="Perfil de Egreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

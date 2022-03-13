@@ -8,23 +8,129 @@
 
     <TextView
         android:id="@+id/textView87"
-        android:layout_width="190dp"
-        android:layout_height="14dp"
-        android:text="Creación y dirección de empresas de infraestructura"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
+        android:text="Creación y dirección de empresas de infraestructura."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.941"
+        app:layout_constraintHorizontal_bias="0.904"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.414" />
+        app:layout_constraintVertical_bias="0.444" />
+
+    <TextView
+        android:id="@+id/textView84"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Industria privada de la construcción."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.904"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.424" />
+
+    <TextView
+        android:id="@+id/textView90"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Despachos de Ingeniería."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.807"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.381" />
+
+    <TextView
+        android:id="@+id/textView91"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Inmobiliarias."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.807"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.353" />
+
+    <TextView
+        android:id="@+id/textView86"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Consultor independiente."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.807"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.367" />
+
+    <TextView
+        android:id="@+id/textView88"
+        android:layout_width="125dp"
+        android:layout_height="12dp"
+        android:justificationMode="inter_word"
+        android:text="Docencia e investigación."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.807"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.396" />
+
+    <TextView
+        android:id="@+id/textView89"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Dirección de proyectos de inversión."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.904"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.41" />
+
+    <TextView
+        android:id="@+id/textView85"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
+        android:text="Sector público (comunicaciones y transportes)."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.904"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.472" />
 
     <TextView
         android:id="@+id/textView75"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Campo de Trabajo"
+        android:text="Campo de Trabajo."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -32,90 +138,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.323" />
-
-    <TextView
-        android:id="@+id/textView88"
-        android:layout_width="190dp"
-        android:layout_height="14dp"
-        android:text="Docencia e investigación."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.941"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.432" />
-
-    <TextView
-        android:id="@+id/textView85"
-        android:layout_width="186dp"
-        android:layout_height="15dp"
-        android:text="Sector público (comunicaciones y transportes)."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.924"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.374" />
-
-    <TextView
-        android:id="@+id/textView89"
-        android:layout_width="190dp"
-        android:layout_height="14dp"
-        android:text="Dirección de proyectos de inversión."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.941"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.451" />
-
-    <TextView
-        android:id="@+id/textView91"
-        android:layout_width="190dp"
-        android:layout_height="14dp"
-        android:text="Inmobiliarias."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.941"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.49" />
-
-    <TextView
-        android:id="@+id/textView86"
-        android:layout_width="190dp"
-        android:layout_height="14dp"
-        android:text="Consultor independiente."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.941"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.391" />
-
-    <TextView
-        android:id="@+id/textView84"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Industria privada de la construcción."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.691"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.356" />
 
     <ImageView
         android:id="@+id/imageView25"
@@ -129,20 +151,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.323"
         app:srcCompat="@drawable/campolaboral" />
-
-    <TextView
-        android:id="@+id/textView90"
-        android:layout_width="190dp"
-        android:layout_height="14dp"
-        android:text="Despachos de Ingeniería."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.941"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.47" />
 
     <ImageView
         android:id="@+id/imageView14"
@@ -161,7 +169,7 @@
         android:id="@+id/textView60"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ingeniería Civil"
+        android:text="Ingeniería Civil."
         android:textColor="@color/black"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -172,24 +180,10 @@
         app:layout_constraintVertical_bias="0.059" />
 
     <TextView
-        android:id="@+id/textView69"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Innovación de nuevos proyectos."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.057"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.408" />
-
-    <TextView
         android:id="@+id/textView63"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Ingreso"
+        android:text="Perfil de Ingreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -200,9 +194,55 @@
 
     <TextView
         android:id="@+id/textView71"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
         android:text="Facilidad de adaptación al cambio."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.062"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.411" />
+
+    <TextView
+        android:id="@+id/textView68"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
+        android:text="Capacidad de observación y análisis."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.068"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.445" />
+
+    <TextView
+        android:id="@+id/textView70"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Pensamiento crítico."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.062"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.357" />
+
+    <TextView
+        android:id="@+id/textView73"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Trabajo bajo presión."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -210,12 +250,58 @@
         app:layout_constraintHorizontal_bias="0.059"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.44" />
+        app:layout_constraintVertical_bias="0.371" />
+
+    <TextView
+        android:id="@+id/textView69"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Innovación de nuevos proyectos."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.062"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.398" />
+
+    <TextView
+        android:id="@+id/textView72"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Habilidades de liderazgo."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.059"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.385" />
+
+    <TextView
+        android:id="@+id/textView66"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
+        android:text="Estudios de nivel medio superior concluidos."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.068"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.459" />
 
     <TextView
         android:id="@+id/textView67"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
         android:text="Conocimiento de ciencias exactas."
         android:textColor="@color/black"
         android:textSize="8sp"
@@ -224,98 +310,29 @@
         app:layout_constraintHorizontal_bias="0.059"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.38" />
-
-    <TextView
-        android:id="@+id/textView68"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Capacidad de observación y análisis."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.06"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.397" />
-
-    <TextView
-        android:id="@+id/textView73"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Trabajo bajo presión."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.047"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.472" />
-
-    <TextView
-        android:id="@+id/textView66"
-        android:layout_width="148dp"
-        android:layout_height="26dp"
-        android:text="Estudios de nivel medio superior concluidos."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.064"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.363" />
-
-    <TextView
-        android:id="@+id/textView70"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Pensamiento crítico."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.05"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.426" />
-
-    <TextView
-        android:id="@+id/textView72"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Habilidades de liderazgo."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.052"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.454" />
+        app:layout_constraintVertical_bias="0.425" />
 
     <TextView
         android:id="@+id/textView74"
         android:layout_width="326dp"
         android:layout_height="66dp"
+        android:justificationMode="inter_word"
         android:text="El egresado de la Licenciatura en Ingeniería Civil de UAMP será capaz de: ejercer y especializarse en cualquier campo de la Ingeniería Civil, incluyendo las áreas de construcción, proyecto y diseño de estructuras, ingeniería de transporte, hidrología e ingeniería ambiental. Proyectar, diseñar, presupuestar, construir y administrar proyectos de construcción. Desarrollar proyectos de ingeniería que respondan a los demandados por la sociedad."
         android:textAlignment="textStart"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.515"
+        app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.202" />
+        app:layout_constraintVertical_bias="0.212" />
 
     <TextView
         android:id="@+id/textView64"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Egreso"
+        android:text="Perfil de Egreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -354,7 +371,7 @@
         android:id="@+id/textView92"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Plan de Estudios"
+        android:text="Plan de Estudios."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

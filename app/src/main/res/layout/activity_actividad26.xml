@@ -8,23 +8,24 @@
 
     <TextView
         android:id="@+id/textView305"
-        android:layout_width="148dp"
-        android:layout_height="29dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
         android:text="Sector público (contraloría, tesorería y administración financiera)."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.942"
+        app:layout_constraintHorizontal_bias="0.888"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.447" />
+        app:layout_constraintVertical_bias="0.417" />
 
     <TextView
         android:id="@+id/textView298"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Campo de Trabajo"
+        android:text="Campo de Trabajo."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -35,93 +36,100 @@
 
     <TextView
         android:id="@+id/textView299"
-        android:layout_width="142dp"
+        android:layout_width="150dp"
         android:layout_height="20dp"
         android:text="Instituciones financieras (bancos, aseguradoras, etc.)."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.921"
+        app:layout_constraintHorizontal_bias="0.888"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.413" />
+        app:layout_constraintVertical_bias="0.39" />
 
     <TextView
         android:id="@+id/textView300"
-        android:layout_width="145dp"
-        android:layout_height="25dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
         android:text="Creación y dirección de negocios propios."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.932"
+        app:layout_constraintHorizontal_bias="0.888"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.381" />
-
-    <TextView
-        android:id="@+id/textView301"
-        android:layout_width="141dp"
-        android:layout_height="16dp"
-        android:text="Servicios de auditoría financiera."
-        android:textColor="@color/black"
-        android:textSize="8sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.922"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.334" />
+        app:layout_constraintVertical_bias="0.371" />
 
     <TextView
         android:id="@+id/textView302"
-        android:layout_width="141dp"
-        android:layout_height="17dp"
+        android:layout_width="100dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
         android:text="Investigación y docencia."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.922"
+        app:layout_constraintHorizontal_bias="0.736"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.352" />
+        app:layout_constraintVertical_bias="0.331" />
+
+    <TextView
+        android:id="@+id/textView301"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
+        android:text="Servicios de auditoría financiera."
+        android:textColor="@color/black"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.345" />
 
     <TextView
         android:id="@+id/textView303"
-        android:layout_width="144dp"
-        android:layout_height="21dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
         android:text="Consultor financiero independiente."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.928"
+        app:layout_constraintHorizontal_bias="0.888"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.505" />
+        app:layout_constraintVertical_bias="0.359" />
 
     <TextView
         android:id="@+id/textView304"
-        android:layout_width="143dp"
-        android:layout_height="25dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
         android:text="Áreas contables de empresas públicas y privadas."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.925"
+        app:layout_constraintHorizontal_bias="0.888"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.473" />
+        app:layout_constraintVertical_bias="0.447" />
 
     <TextView
         android:id="@+id/textView307"
-        android:layout_width="146dp"
-        android:layout_height="16dp"
+        android:layout_width="100dp"
+        android:layout_height="10dp"
         android:text="Situaciones de riesgo."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -129,83 +137,89 @@
         app:layout_constraintHorizontal_bias="0.083"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.334" />
+        app:layout_constraintVertical_bias="0.331" />
 
     <TextView
         android:id="@+id/textView308"
-        android:layout_width="150dp"
-        android:layout_height="14dp"
+        android:layout_width="100dp"
+        android:layout_height="10dp"
         android:text="Análisis de escenarios."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.084"
+        app:layout_constraintHorizontal_bias="0.083"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.355" />
+        app:layout_constraintVertical_bias="0.345" />
 
     <TextView
         android:id="@+id/textView309"
-        android:layout_width="147dp"
-        android:layout_height="32dp"
-        android:text="Estudios de nivel medio superior concluidos"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:text="Estudios de nivel medio superior concluidos."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.087"
+        app:layout_constraintHorizontal_bias="0.095"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.467" />
+        app:layout_constraintVertical_bias="0.419" />
 
     <TextView
         android:id="@+id/textView310"
-        android:layout_width="149dp"
-        android:layout_height="16dp"
+        android:layout_width="100dp"
+        android:layout_height="10dp"
         android:text="Habilidades matemáticas."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.083"
+        app:layout_constraintHorizontal_bias="0.08"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.434" />
+        app:layout_constraintVertical_bias="0.371" />
 
     <TextView
         android:id="@+id/textView311"
-        android:layout_width="149dp"
-        android:layout_height="16dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
         android:text="Capacidad de toma de decisiones."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.083"
+        app:layout_constraintHorizontal_bias="0.095"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.412" />
+        app:layout_constraintVertical_bias="0.399" />
 
     <TextView
         android:id="@+id/textView312"
-        android:layout_width="149dp"
-        android:layout_height="16dp"
+        android:layout_width="150dp"
+        android:layout_height="10dp"
         android:text="Capacidad de razonamiento crítico."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.083"
+        app:layout_constraintHorizontal_bias="0.095"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.395" />
+        app:layout_constraintVertical_bias="0.385" />
 
     <TextView
         android:id="@+id/textView313"
-        android:layout_width="149dp"
-        android:layout_height="16dp"
+        android:layout_width="100dp"
+        android:layout_height="10dp"
         android:text="Sentido de honestidad."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -213,7 +227,7 @@
         app:layout_constraintHorizontal_bias="0.083"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.376" />
+        app:layout_constraintVertical_bias="0.359" />
 
     <ImageView
         android:id="@+id/imageView97"
@@ -233,7 +247,7 @@
         android:id="@+id/textView306"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Ingreso"
+        android:text="Perfil de Ingreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -246,7 +260,7 @@
         android:id="@+id/textView314"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Plan de Estudios"
+        android:text="Plan de Estudios."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -285,7 +299,7 @@
         android:id="@+id/textView315"
         android:layout_width="142dp"
         android:layout_height="28dp"
-        android:text="Contaduría Pública"
+        android:text="Contaduría Pública."
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
@@ -298,8 +312,9 @@
 
     <TextView
         android:id="@+id/textView316"
-        android:layout_width="339dp"
-        android:layout_height="42dp"
+        android:layout_width="305dp"
+        android:layout_height="40dp"
+        android:justificationMode="inter_word"
         android:text="El egresado de la Licenciatura en Contaduría Pública de UAMP será capaz de: diseñar, analizar y emitir criterios sobre la calidad de la información que generan los sistemas financieros de cualquier organización, mediante el uso de tecnologías de información y comunicación."
         android:textAlignment="textStart"
         android:textColor="@color/black"
@@ -314,7 +329,7 @@
         android:id="@+id/textView317"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Egreso"
+        android:text="Perfil de Egreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

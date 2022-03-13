@@ -22,17 +22,16 @@ class actividad14 : AppCompatActivity() {
         }
     }
     fun sendMessage(message: String){
-
         val intent = Intent (Intent.ACTION_SEND)
         intent.type = "text/plain"
-        intent.setPackage("com.Whatsapp")
+        intent.setPackage("com.whatsapp")
         intent.putExtra(Intent.EXTRA_TEXT, message)
 
         if (intent.resolveActivity(packageManager) == null){
             Toast.makeText(this,"Primero instala WhatsApp", Toast.LENGTH_SHORT).show()
             return
-
         }
+
         startActivity(intent)
     }
 }

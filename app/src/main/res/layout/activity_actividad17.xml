@@ -10,7 +10,7 @@
         android:id="@+id/textView121"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Campo de Trabajo"
+        android:text="Campo de Trabajo."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -21,73 +21,78 @@
 
     <TextView
         android:id="@+id/textView124"
-        android:layout_width="195dp"
-        android:layout_height="27dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
         android:text="Centros de estimulación temprana deportivos y geriátricos."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.986"
+        app:layout_constraintHorizontal_bias="0.862"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.362" />
+        app:layout_constraintVertical_bias="0.365" />
 
     <TextView
         android:id="@+id/textView130"
-        android:layout_width="190dp"
-        android:layout_height="14dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
         android:text="Centros de investigación en rehabilitación física."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.963"
+        app:layout_constraintHorizontal_bias="0.862"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.336" />
+        app:layout_constraintVertical_bias="0.337" />
 
     <TextView
         android:id="@+id/textView133"
-        android:layout_width="186dp"
-        android:layout_height="15dp"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
+        android:justificationMode="inter_word"
         android:text="Centros de rehabilitación infantil."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.946"
+        app:layout_constraintHorizontal_bias="0.786"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.321" />
+        app:layout_constraintVertical_bias="0.319" />
 
     <TextView
         android:id="@+id/textView138"
-        android:layout_width="197dp"
-        android:layout_height="30dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
         android:text="Instituciones de rehabilitación en el sector público y privado."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.995"
+        app:layout_constraintHorizontal_bias="0.862"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.39" />
+        app:layout_constraintVertical_bias="0.392" />
 
     <TextView
         android:id="@+id/textView139"
-        android:layout_width="198dp"
-        android:layout_height="32dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
         android:text="Instituciones educativas dedicas a la formación en Fisioterapia."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.862"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.423" />
+        app:layout_constraintVertical_bias="0.42" />
 
     <ImageView
         android:id="@+id/imageView27"
@@ -119,7 +124,7 @@
         android:id="@+id/textView140"
         android:layout_width="163dp"
         android:layout_height="29dp"
-        android:text="Fisioterapia"
+        android:text="Fisioterapia."
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
@@ -134,7 +139,7 @@
         android:id="@+id/textView141"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Ingreso"
+        android:text="Perfil de Ingreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -147,7 +152,8 @@
         android:id="@+id/textView142"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Creatividad para afrontar retos y desafíos"
+        android:text="Creatividad para afrontar retos y desafíos."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -162,6 +168,7 @@
         android:layout_width="149dp"
         android:layout_height="12dp"
         android:text="Buen estado de salud física y emocional."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -176,6 +183,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Actitud de servicio y trabajo en equipo."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -190,6 +198,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Buena comunicación oral y escrita."
+        android:justificationMode="inter_word"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -201,22 +210,24 @@
 
     <TextView
         android:id="@+id/textView146"
-        android:layout_width="127dp"
-        android:layout_height="27dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:justificationMode="inter_word"
         android:text="Estudios de nivel medio superior concluidos."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.042"
+        app:layout_constraintHorizontal_bias="0.045"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.406" />
+        app:layout_constraintVertical_bias="0.402" />
 
     <TextView
         android:id="@+id/textView151"
-        android:layout_width="148dp"
-        android:layout_height="41dp"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:justificationMode="inter_word"
         android:text="Sentido humanista, responsable, tolerante, pacientes, honesto y con adaptación al cambio. "
         android:textColor="@color/black"
         android:textSize="8sp"
@@ -225,7 +236,7 @@
         app:layout_constraintHorizontal_bias="0.049"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.453" />
+        app:layout_constraintVertical_bias="0.436" />
 
     <TextView
         android:id="@+id/textView147"
@@ -243,24 +254,24 @@
 
     <TextView
         android:id="@+id/textView148"
-        android:layout_width="326dp"
-        android:layout_height="66dp"
+        android:layout_width="290dp"
+        android:layout_height="40dp"
+        android:justificationMode="inter_word"
         android:text="El egresado de la Licenciatura en Fisioterapia de UAMP, por su formación, podrá demostrar competencia en los cinco dominios profesionales de la Fisioterapia, lo que le permitirá abordar un amplio campo laboral desempeñándose en las áreas de: asistencia, docencia, investigación, gestión y administración."
         android:textAlignment="textStart"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.515"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.202" />
+        app:layout_constraintVertical_bias="0.205" />
 
     <TextView
         android:id="@+id/textView149"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Perfil de Egreso"
+        android:text="Perfil de Egreso."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -273,7 +284,7 @@
         android:id="@+id/textView150"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Plan de Estudios"
+        android:text="Plan de Estudios."
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

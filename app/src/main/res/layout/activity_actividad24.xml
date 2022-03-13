@@ -160,31 +160,31 @@
 
     <TextView
         android:id="@+id/textView267"
-        android:layout_width="147dp"
-        android:layout_height="32dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
         android:text="Estudios de nivel medio superior concluidos"
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.079"
+        app:layout_constraintHorizontal_bias="0.08"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.494" />
+        app:layout_constraintVertical_bias="0.469" />
 
     <TextView
         android:id="@+id/textView268"
-        android:layout_width="149dp"
-        android:layout_height="16dp"
+        android:layout_width="125dp"
+        android:layout_height="10dp"
         android:text="Convicción por hacer el bien."
         android:textColor="@color/black"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.076"
+        app:layout_constraintHorizontal_bias="0.069"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.461" />
+        app:layout_constraintVertical_bias="0.449" />
 
     <TextView
         android:id="@+id/textView275"
@@ -311,8 +311,9 @@
 
     <TextView
         android:id="@+id/textView271"
-        android:layout_width="336dp"
-        android:layout_height="59dp"
+        android:layout_width="302dp"
+        android:layout_height="55dp"
+        android:justificationMode="inter_word"
         android:text="El egresado de la Licenciatura en Psicopedagogía Aplicada de UAMP, habrá adquirido los elementos teóricos, conceptúales, metodológicos y prácticos, así como un psicopedagogo competitivo para ejercer funciones de diagnóstico, evaluación, intervención e investigación, enfocados al proceso de enseñanza-aprendizaje en cualquier ámbito educativo, ya sea dentro o fuera del sistema escolar."
         android:textAlignment="textStart"
         android:textColor="@color/black"

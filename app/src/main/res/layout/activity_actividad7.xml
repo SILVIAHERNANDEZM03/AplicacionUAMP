@@ -10,7 +10,7 @@
         android:id="@+id/textView21"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Área de la Salud"
+        android:text="Área de la Salud."
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
@@ -69,7 +69,7 @@
         android:id="@+id/textView22"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=" Enfermería"
+        android:text=" Enfermería."
         android:textAlignment="center"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -83,12 +83,12 @@
         android:id="@+id/textView25"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=" Fisioterapia"
+        android:text=" Fisioterapia."
         android:textAlignment="center"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.661"
+        app:layout_constraintHorizontal_bias="0.66"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -96,15 +96,15 @@
         android:id="@+id/textView26"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=" Nutrición Clínica"
+        android:text=" Nutrición Clínica."
         android:textAlignment="center"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.724"
+        app:layout_constraintHorizontal_bias="0.66"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.692" />
+        app:layout_constraintVertical_bias="0.699" />
 
     <Button
         android:id="@+id/button5"
@@ -121,7 +121,8 @@
         app:layout_constraintVertical_bias="0.9" />
 
     <ImageButton
-        android:id="@+id/imageButton4"
+        android:id="@+id/btnutricion"
+        android:onClick="nutricionclinica"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:backgroundTint="#ffffff"
