@@ -10,7 +10,8 @@ class actividad20 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_actividad20)
     }
-    fun derecho(view: View){
+
+    fun derecho(view: View) {
         val intent = Intent(this, actividad8()::class.java)
         startActivity(intent)
     }

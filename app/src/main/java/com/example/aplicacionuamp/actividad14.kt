@@ -22,19 +22,21 @@ class actividad14 : AppCompatActivity() {
             sendMessage(mensaje);
         }
     }
-    fun sendMessage(message: String){
-        val intent = Intent (Intent.ACTION_SEND)
+
+    fun sendMessage(message: String) {
+        val intent = Intent(Intent.ACTION_SEND)
         intent.type = "text/plain"
         intent.setPackage("com.whatsapp")
         intent.putExtra(Intent.EXTRA_TEXT, message)
 
-        if (intent.resolveActivity(packageManager) == null){
-            Toast.makeText(this,"Primero instala WhatsApp", Toast.LENGTH_SHORT).show()
+        if (intent.resolveActivity(packageManager) == null) {
+            Toast.makeText(this, "Primero instala WhatsApp", Toast.LENGTH_SHORT).show()
             return
         }
 
         startActivity(intent)
     }
+
     fun actividadwhatsapp(view: View) {
         val intent = Intent(this, MainActivity()::class.java)
         startActivity(intent)

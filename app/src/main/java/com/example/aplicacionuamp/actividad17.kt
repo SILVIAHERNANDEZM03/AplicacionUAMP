@@ -10,7 +10,8 @@ class actividad17 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_actividad17)
     }
-    fun actividadfisioterapia(view: View){
+
+    fun actividadfisioterapia(view: View) {
         val intent = Intent(this, actividad7()::class.java)
         startActivity(intent)
     }

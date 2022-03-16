@@ -10,7 +10,8 @@ class actividad19 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_actividad19)
     }
-    fun criminologiaycriminalista(view: View){
+
+    fun criminologiaycriminalista(view: View) {
         val intent = Intent(this, actividad8()::class.java)
         startActivity(intent)
     }

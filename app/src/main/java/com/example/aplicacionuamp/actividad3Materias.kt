@@ -35,6 +35,7 @@ class actividad3Materias : AppCompatActivity() {
         val intent = Intent(this, actividad2iniciodesesion()::class.java)
         startActivity(intent)
     }
+
     fun horario(view: View) {
         val intent = Intent(this, actividad29()::class.java)
         startActivity(intent)

@@ -10,7 +10,8 @@ class actividad21 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_actividad21)
     }
-    fun estilismoycosmetología(view: View){
+
+    fun estilismoycosmetología(view: View) {
         val intent = Intent(this, actividad8()::class.java)
         startActivity(intent)
     }

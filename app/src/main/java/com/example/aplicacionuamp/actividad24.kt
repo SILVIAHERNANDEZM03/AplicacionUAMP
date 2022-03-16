@@ -10,7 +10,8 @@ class actividad24 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_actividad24)
     }
-    fun psicopedagogíaAplicada(view: View){
+
+    fun psicopedagogíaAplicada(view: View) {
         val intent = Intent(this, actividad8()::class.java)
         startActivity(intent)
     }

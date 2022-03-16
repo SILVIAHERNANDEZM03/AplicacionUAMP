@@ -10,6 +10,7 @@ class actividad32 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_actividad32)
     }
+
     fun marketingDigital(view: View) {
         val intent = Intent(this, Actividad4licenciaturas()::class.java)
         startActivity(intent)

@@ -10,7 +10,8 @@ class actividad23 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_actividad23)
     }
-    fun psicologíaAplicada(view: View){
+
+    fun psicologíaAplicada(view: View) {
         val intent = Intent(this, actividad8()::class.java)
         startActivity(intent)
     }

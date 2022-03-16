@@ -10,7 +10,8 @@ class actividad18 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_actividad18)
     }
-    fun acondicionamientofisico(view: View){
+
+    fun acondicionamientofisico(view: View) {
         val intent = Intent(this, actividad8()::class.java)
         startActivity(intent)
     }

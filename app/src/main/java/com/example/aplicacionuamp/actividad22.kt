@@ -10,7 +10,8 @@ class actividad22 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_actividad22)
     }
-    fun idiomas(view: View){
+
+    fun idiomas(view: View) {
         val intent = Intent(this, actividad8()::class.java)
         startActivity(intent)
     }
