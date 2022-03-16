@@ -65,34 +65,38 @@
         app:layout_constraintVertical_bias="0.817" />
 
     <ImageButton
-        android:id="@+id/imageButton"
+        android:id="@+id/btnopenfacebook"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:backgroundTint="#ffffff"
+        android:onClick="Facebook"
         android:scaleType="centerInside"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.1"
+        app:layout_constraintHorizontal_bias="0.357"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.95"
         app:srcCompat="@drawable/facebook" />
 
     <ImageButton
-        android:id="@+id/imageButton2"
+        android:id="@+id/btnopeninstragram"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:backgroundTint="#ffffff"
+        android:onClick="Instag"
         android:scaleType="centerInside"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.627"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.95"
         app:srcCompat="@drawable/instagram" />
 
     <ImageButton
-        android:id="@+id/imageButton3"
+        android:id="@+id/btnopenyoutube"
+        android:onClick="Youtube"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:backgroundTint="#ffffff"
@@ -104,5 +108,21 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.95"
         app:srcCompat="@drawable/youtube" />
+
+    <ImageButton
+        android:id="@+id/whatsapp"
+        android:onClick="actividadwhatsapp"
+        android:layout_width="118dp"
+        android:layout_height="101dp"
+        android:backgroundTint="#ffffff"
+        android:scaleType="centerInside"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.013"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.974"
+        app:srcCompat="@drawable/whatsappweb" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

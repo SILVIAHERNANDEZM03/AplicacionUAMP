@@ -16,8 +16,4 @@ class actividad13 : AppCompatActivity() {
         startActivity(intent)
     }
 
-    fun actividadwhatsapp(view: View) {
-        val intent = Intent(this, actividad14()::class.java)
-        startActivity(intent)
-    }
 }

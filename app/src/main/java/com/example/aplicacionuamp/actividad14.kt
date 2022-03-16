@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Message
+import android.view.View
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
@@ -32,6 +33,10 @@ class actividad14 : AppCompatActivity() {
             return
         }
 
+        startActivity(intent)
+    }
+    fun actividadwhatsapp(view: View) {
+        val intent = Intent(this, MainActivity()::class.java)
         startActivity(intent)
     }
 }
